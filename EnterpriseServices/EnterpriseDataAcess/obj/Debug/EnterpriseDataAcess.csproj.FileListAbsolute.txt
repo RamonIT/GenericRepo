@@ -1,0 +1,6 @@
+C:\Repositorio\Login Desktop\EnterpriseServices\EnterpriseDataAcess\bin\Debug\EnterpriseDataAcess.dll.config
+C:\Repositorio\Login Desktop\EnterpriseServices\EnterpriseDataAcess\bin\Debug\EnterpriseDataAcess.dll
+C:\Repositorio\Login Desktop\EnterpriseServices\EnterpriseDataAcess\bin\Debug\EnterpriseDataAcess.pdb
+C:\Repositorio\Login Desktop\EnterpriseServices\EnterpriseDataAcess\obj\Debug\EnterpriseDataAcess.csprojResolveAssemblyReference.cache
+C:\Repositorio\Login Desktop\EnterpriseServices\EnterpriseDataAcess\obj\Debug\EnterpriseDataAcess.dll
+C:\Repositorio\Login Desktop\EnterpriseServices\EnterpriseDataAcess\obj\Debug\EnterpriseDataAcess.pdb

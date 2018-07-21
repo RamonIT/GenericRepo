@@ -1,0 +1,5 @@
+C:\Repositorio\Login Desktop\EnterpriseServices\EnterpriseDomain\bin\Debug\EnterpriseDomain.dll
+C:\Repositorio\Login Desktop\EnterpriseServices\EnterpriseDomain\bin\Debug\EnterpriseDomain.pdb
+C:\Repositorio\Login Desktop\EnterpriseServices\EnterpriseDomain\obj\Debug\EnterpriseDomain.csprojResolveAssemblyReference.cache
+C:\Repositorio\Login Desktop\EnterpriseServices\EnterpriseDomain\obj\Debug\EnterpriseDomain.dll
+C:\Repositorio\Login Desktop\EnterpriseServices\EnterpriseDomain\obj\Debug\EnterpriseDomain.pdb
