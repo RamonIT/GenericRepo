@@ -1,0 +1,9 @@
+C:\Repositorio\Login Desktop\LoginDesktop\LoginDesktop\bin\Debug\LoginDesktop.exe.config
+C:\Repositorio\Login Desktop\LoginDesktop\LoginDesktop\bin\Debug\LoginDesktop.exe
+C:\Repositorio\Login Desktop\LoginDesktop\LoginDesktop\bin\Debug\LoginDesktop.pdb
+C:\Repositorio\Login Desktop\LoginDesktop\LoginDesktop\obj\Debug\LoginDesktop.csprojResolveAssemblyReference.cache
+C:\Repositorio\Login Desktop\LoginDesktop\LoginDesktop\obj\Debug\LoginDesktop.Form1.resources
+C:\Repositorio\Login Desktop\LoginDesktop\LoginDesktop\obj\Debug\LoginDesktop.Properties.Resources.resources
+C:\Repositorio\Login Desktop\LoginDesktop\LoginDesktop\obj\Debug\LoginDesktop.csproj.GenerateResource.Cache
+C:\Repositorio\Login Desktop\LoginDesktop\LoginDesktop\obj\Debug\LoginDesktop.exe
+C:\Repositorio\Login Desktop\LoginDesktop\LoginDesktop\obj\Debug\LoginDesktop.pdb
